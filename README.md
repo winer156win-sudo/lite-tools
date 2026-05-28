@@ -1,2 +1,2 @@
 # lite-tools
-Helpful Super light Apps
+Helpful Super light Apps for every day use.
